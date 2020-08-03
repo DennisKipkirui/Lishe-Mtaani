@@ -184,3 +184,10 @@ navbar>li>a{
     margin-top: 50px;
 
 }
+.contact p{
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-style: italic;
+    
+}
